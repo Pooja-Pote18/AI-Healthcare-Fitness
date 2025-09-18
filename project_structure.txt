@@ -6,10 +6,11 @@ ai-health-fitness
         ├─ backend/
         │  ├─ app.py
         │  ├─ requirements.txt
-        │  └─ utils.py
+        │  └─ main.py
         ├─ frontend/
         │  ├─ index.html
         │  ├─ styles.css
         │  └─ script.js
         └─ README.md
         
+
