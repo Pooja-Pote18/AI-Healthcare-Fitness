@@ -1,0 +1,14 @@
+Project structure (files included in this doc)
+
+
+ai-health-fitness/
+
+├─ backend/
+│  ├─ app.py
+│  ├─ requirements.txt
+│  └─ utils.py
+├─ frontend/
+│  ├─ index.html
+│  ├─ styles.css
+│  └─ script.js
+└─ README.md
