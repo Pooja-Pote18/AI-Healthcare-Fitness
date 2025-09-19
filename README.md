@@ -20,6 +20,7 @@ Users can also download a PDF report of their recommendations.
 🎨 Simple responsive web UI
 
 
+
 🛠️ **Tech Stack**
 
 Backend: Python, Flask, FPDF
