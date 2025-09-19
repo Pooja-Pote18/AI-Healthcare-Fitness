@@ -6,6 +6,7 @@ It provides personalized BMI analysis, health risk evaluation, workout routines,
 Users can also download a PDF report of their recommendations.
 
 🚀 **Features**-
+
 📊 BMI Calculator with health risk analysis
 
 🏃 Personalized workout plan based on goal & activity level
@@ -20,6 +21,7 @@ Users can also download a PDF report of their recommendations.
 
 
 🛠️ **Tech Stack**
+
 Backend: Python, Flask, FPDF
 
 Frontend: HTML, CSS, JavaScript
