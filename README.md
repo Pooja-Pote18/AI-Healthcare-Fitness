@@ -1,28 +1,67 @@
 
-🏋️‍♀️ **AI Healthcare & Fitness Advisor**
+🏋️‍♀️ AI Healthcare & Fitness Advisor
 
-An AI-powered healthcare and fitness recommendation system built with Python (Flask), HTML, CSS, and JavaScript.
-It provides personalized BMI analysis, health risk evaluation, workout routines, diet plans, and a  daily plan.
-Users can also download a PDF report of their recommendations.
+An AI-powered healthcare and fitness recommendation system built using Python (Flask), HTML, CSS, and JavaScript.
+It provides personalized BMI analysis, diet plans, workout routines, daily schedules, and allows users to download a PDF health report.
 
-🚀 **Features**-
+🚀 Features
+📊 BMI Calculator
 
-📊 BMI Calculator with health risk analysis
+Calculates BMI using height & weight
 
-🏃 Personalized workout plan based on goal & activity level
+Shows health category (Underweight, Normal, Overweight, Obese)
 
-🍴 Diet recommendations (Weight Loss, Muscle Gain, General Fitness)
+Provides health risk assessment
 
-📅 daily plan generation
+🏃 Personalized Workout Plan
 
-📑 Downloadable PDF report of results
+Based on user’s:
 
-🎨 Simple responsive web UI
+Fitness goal (Weight Loss / Muscle Gain / Fitness)
+
+Activity level (Beginner / Intermediate / Advanced)
+
+Includes warm-up, main workout, and cooldown
+
+🍴 Diet Recommendations
+
+Goal-based (weight loss, muscle gain, general fitness)
+
+Provides structured breakfast, lunch, dinner options
+
+Includes nutrition-friendly tips
+
+📅 Daily Plan Generator
+
+Automatically creates a balanced one-day routine
+
+Includes meal timings, workout schedule & hydration reminders
+
+📄 PDF Report Download
+
+Generates a complete health summary in PDF format
+
+Includes BMI, workout plan, diet, and daily schedule
+
+🎨 Responsive UI
+
+Clean interface made with HTML, CSS, and JS
+
+Works on mobile and desktop
+
+🛠️ Tech Stack
+
+Backend
+
+Python
+
+Flask
 
 
+Frontend
 
-🛠️ **Tech Stack**
+HTML
 
-Backend: Python, Flask, FPDF
+CSS
 
-Frontend: HTML, CSS, JavaScript
+JavaScript
