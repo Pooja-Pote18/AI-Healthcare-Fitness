@@ -4,7 +4,8 @@
 An AI-powered healthcare and fitness recommendation system built using Python (Flask), HTML, CSS, and JavaScript.
 It provides personalized BMI analysis, diet plans, workout routines, daily schedules, and allows users to download a PDF health report.
 
-🚀 Features
+**🚀 Features**
+
 📊 BMI Calculator
 
 Calculates BMI using height & weight
@@ -49,7 +50,8 @@ Clean interface made with HTML, CSS, and JS
 
 Works on mobile and desktop
 
-🛠️ Tech Stack
+
+**🛠️ Tech Stack**
 
 Backend
 
@@ -65,3 +67,58 @@ HTML
 CSS
 
 JavaScript
+
+**📂 Project Structure**
+
+
+AI-Healthcare-Fitness-Advisor/
+│
+├── Backend/
+│   ├── app.py              # Main Flask backend logic
+│   ├── main.py             # Optional runner script
+│
+├── Frontend/
+│   ├── index.html          # User interface
+│   ├── scripts.js          # Frontend logic & API requests
+│   ├── styles.css          # Styling
+│
+├── README.md               # Project documentation
+└── requirements.txt        # Python dependencies
+
+
+**▶️ How to Run the Project**
+
+      1. Create virtual environment
+      python -m venv venv
+      
+      2. Activate environment
+      
+      Windows:
+      
+      venv\Scripts\activate
+      
+      
+      Mac/Linux:
+      
+      source venv/bin/activate
+      
+      3. Install dependencies
+      pip install -r requirements.txt
+      
+      4. Run Flask server
+      python Backend/app.py
+      
+      5. Open in browser
+      http://127.0.0.1:5000/
+
+**🔮 Future Improvements**
+
+  AI chatbot for health & gym queries
+  
+  Food calorie detection using image recognition
+  
+  User login with progress tracking
+  
+  Integration with fitness wearables
+  
+  Weekly health report generation
