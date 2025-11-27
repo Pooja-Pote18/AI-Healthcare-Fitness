@@ -72,29 +72,29 @@ It provides personalized BMI analysis, diet plans, workout routines, daily sched
 **📂 Project Structure**
 
 
-AI-Healthcare-Fitness-Advisor/
-
-│
-├── Backend/
-
-     ├── app.py              # Main Flask backend logic
-
-     ├── main.py             # Optional runner script
-
-
-├── Frontend/
-
-
-     ├── index.html          # User interface
-
-     ├── scripts.js          # Frontend logic & API requests
-
-     ├── styles.css          # Styling
-
-
-├── README.md               # Project documentation
-
-└── requirements.txt        # Python dependencies
+  AI-Healthcare-Fitness-Advisor/
+  
+  │
+  ├── Backend/
+  
+       ├── app.py              # Main Flask backend logic
+  
+       ├── main.py             # Optional runner script
+  
+  
+  ├── Frontend/
+  
+  
+       ├── index.html          # User interface
+  
+       ├── scripts.js          # Frontend logic & API requests
+  
+       ├── styles.css          # Styling
+  
+  
+  ├── README.md               # Project documentation
+  
+  └── requirements.txt        # Python dependencies
 
 
 **▶️ How to Run the Project**
