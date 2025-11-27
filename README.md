@@ -7,15 +7,15 @@ It provides personalized BMI analysis, diet plans, workout routines, daily sched
 
 **🚀 Features**
 
-            📊 BMI Calculator
+ 📊 BMI Calculator
             
-            Calculates BMI using height & weight
+             Calculates BMI using height & weight
             
             Shows health category (Underweight, Normal, Overweight, Obese)
             
             Provides health risk assessment
             
-            🏃 Personalized Workout Plan
+ 🏃 Personalized Workout Plan
             
             Based on user’s:
             
@@ -25,7 +25,7 @@ It provides personalized BMI analysis, diet plans, workout routines, daily sched
 
             Includes warm-up, main workout, and cooldown
             
-            🍴 Diet Recommendations
+🍴 Diet Recommendations
             
             Goal-based (weight loss, muscle gain, general fitness)
             
@@ -33,19 +33,19 @@ It provides personalized BMI analysis, diet plans, workout routines, daily sched
             
             Includes nutrition-friendly tips
 
-            📅 Daily Plan Generator
+📅 Daily Plan Generator
             
             Automatically creates a balanced one-day routine
             
             Includes meal timings, workout schedule & hydration reminders
             
-            📄 PDF Report Download
+📄 PDF Report Download
             
             Generates a complete health summary in PDF format
             
             Includes BMI, workout plan, diet, and daily schedule
             
-            🎨 Responsive UI
+🎨 Responsive UI
 
             Clean interface made with HTML, CSS, and JS
             
@@ -54,20 +54,20 @@ It provides personalized BMI analysis, diet plans, workout routines, daily sched
 
 **🛠️ Tech Stack**
 
-Backend
-
-Python
-
-Flask
-
-
-Frontend
-
-HTML
-
-CSS
-
-JavaScript
+            Backend
+            
+            Python
+            
+            Flask
+            
+            
+            Frontend
+            
+            HTML
+            
+            CSS
+            
+            JavaScript
 
 **📂 Project Structure**
 
@@ -80,8 +80,10 @@ AI-Healthcare-Fitness-Advisor/
 │   ├── app.py              # Main Flask backend logic
 
 │   ├── main.py             # Optional runner script
+
 │
 ├── Frontend/
+
 
 │   ├── index.html          # User interface
 
@@ -122,12 +124,12 @@ AI-Healthcare-Fitness-Advisor/
 
 **🔮 Future Improvements**
 
-  AI chatbot for health & gym queries
-  
-  Food calorie detection using image recognition
-  
-  User login with progress tracking
-  
-  Integration with fitness wearables
-  
-  Weekly health report generation
+              AI chatbot for health & gym queries
+              
+              Food calorie detection using image recognition
+              
+              User login with progress tracking
+              
+              Integration with fitness wearables
+              
+              Weekly health report generation
