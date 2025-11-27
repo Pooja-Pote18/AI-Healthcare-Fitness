@@ -77,19 +77,19 @@ AI-Healthcare-Fitness-Advisor/
 │
 ├── Backend/
 
-│   ├── app.py              # Main Flask backend logic
+│     ├── app.py              # Main Flask backend logic
 
-│   ├── main.py             # Optional runner script
+│     ├── main.py             # Optional runner script
 
 │
 ├── Frontend/
 
 
-│   ├── index.html          # User interface
+│     ├── index.html          # User interface
 
-│   ├── scripts.js          # Frontend logic & API requests
+│     ├── scripts.js          # Frontend logic & API requests
 
-│   ├── styles.css          # Styling
+│     ├── styles.css          # Styling
 
 │
 ├── README.md               # Project documentation
